@@ -1,2 +1,0 @@
-# agendavoz-privacy
-index.md
